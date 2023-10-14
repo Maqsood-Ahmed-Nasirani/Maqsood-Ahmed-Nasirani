@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **MERN Stack Development.**
 
-- 💬 Ask me about **C, C++, CSS, HTML, OOP(C++), Data Structure, JavaScript.**
+- 💬 Ask me about **C, C++, CSS, HTML, OOP(C++), Data Structure, Python.**
 
 - 📫 How to reach me **maqsoodnasirani421@gmail.com**
 
